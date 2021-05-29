@@ -8,14 +8,40 @@ img{
 }
 h1{
     border:5px dotted palevioletred;
+    text-align: center;
+    background-color: powderblue;
+    color: teal;
 }
 blockquote{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 3rem;
     font-style: italic;
     text-align: center;
+    background-image: url(http://placekitten.com/200/200);
+    color: white;
 }
 /*1rem=16px*/
 cite{
-    font-size: 1.5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+}
+.bigbold{
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+h2,h3{
+    color:teal
+}
+ol{
+    color: rgb(168, 73, 168);
+}
+a{
+    font-weight: bold;
+    text-decoration: none;
+    color:tomato;
+}
+p{
+    line-height: 1.3rem;
 }
