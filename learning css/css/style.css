@@ -3,8 +3,11 @@ body{
     font-family:Arial, Helvetica, sans-serif;
     background-color: rgb(247, 247, 214);
 }
+p{
+    color:gray;
+}
 img{
-    border:10px solid rgb(80, 175, 80);
+    border:10px solid #FF0005;
 }
 h1{
 
@@ -20,6 +23,10 @@ blockquote{
     text-align: center;
     background-image: url(http://placekitten.com/200/200);
     color: white;
+}
+#myid{
+color:chartreuse;
+font-weight: bold;
 }
 /*1rem=16px*/
 cite{
@@ -41,8 +48,20 @@ ol{
 p{
     line-height: 1.3rem;
 }
-a{
+ul a:link{
     font-weight: bold;
     text-decoration:none ;
     color:tomato;
+}
+a:visited{
+    color: green;
+    font-weight: normal;
+}
+a:hover{
+    color: orange;
+    text-decoration: underline;
+    background-color: black;
+}
+a.harvard{
+   color:midnightblue; 
 }
