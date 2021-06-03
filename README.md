@@ -13,4 +13,6 @@ To remember:
 Lord Vader Former Handle Anakin
 link to css document-https://frontendmasters.github.io/bootcamp/css
 link to html document-https://frontendmasters.github.io/bootcamp/html
+https://color.adobe.com/explore //to choose the color
+https://www.colorzilla.com/ // to pick the color
 
