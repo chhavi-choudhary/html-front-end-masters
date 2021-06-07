@@ -9,9 +9,15 @@ div{
     border-color: orange;
     background-color: yellow;
 }
-.box2{
-
+.box2 p{
+border: 2px solid green;
+margin-top: 0;
 }
-p{
-    border: 3px solid green;
+
+h1{
+    margin-bottom: 0;
+    margin: 0;
+}
+a, strong, em{
+    border:2px solid blue;
 }

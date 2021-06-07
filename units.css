@@ -1,0 +1,14 @@
+body {
+    color: white;
+    font-family: arial, helvetica, sans-serif;
+  }
+  h1 {
+    background-color: green;
+    padding: 1rem;
+    margin:0;
+    border: 0.1rem solid orange;
+  }
+  p {
+    background-color: blue;
+    padding: 1rem;
+  }
