@@ -8,10 +8,15 @@ div{
 .box1{
     border-color: orange;
     background-color: yellow;
+    width:25%;
 }
 .box2 p{
 border: 2px solid green;
 margin-top: 0;
+}
+.box2{
+    width:25rem;
+
 }
 
 h1{
@@ -20,4 +25,8 @@ h1{
 }
 a, strong, em{
     border:2px solid blue;
+}
+.box3{
+    background-image: url(http://placekitten.com/g/200/300);
+    height: 300px;
 }
