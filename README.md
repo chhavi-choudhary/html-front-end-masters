@@ -12,4 +12,6 @@
 # References-https://frontendmasters.github.io/bootcamp/css#references
 # MDN
 # CSS TRICKS
+# https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+# https://frontendmasters.github.io/bootcamp/layout#understanding-floats-and-clears
 
