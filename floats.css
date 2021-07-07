@@ -1,6 +1,18 @@
 .floatleft{
     float:left;
     /*TRBL*/
-    margin:0 1rem 1rem 0;
-    
+    margin:0 1rem 1rem 0; 
 }
+.floatright{
+    float:right;
+}
+article {
+width: 30rem;
+border: 3px solid green;
+margin: 0 auto;
+}
+article:after{
+    content: "";
+    display: table;
+     clear: both;
+     }
