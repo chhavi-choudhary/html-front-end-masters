@@ -1,0 +1,14 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display:flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+   
+}
+li{
+    border: solid 3px teal;
+    flex-basis: 10%;
+    
+}
