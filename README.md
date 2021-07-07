@@ -16,4 +16,6 @@
 # https://frontendmasters.github.io/bootcamp/layout#understanding-floats-and-clears
 # For margin and padding-TRBL
 # https://frontendmasters.github.io/bootcamp/layout#introducing-flexbox
+# https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/3-layout.zip
+
 
